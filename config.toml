@@ -1,0 +1,12 @@
+baseURL = "http://amit-gshe.github.io/"
+title = "何桂松的个人主页"
+theme = "black-and-light"
+canonifyurls = true
+disqusShortname = "amit-gshe-github-io"
+
+[params]
+  sitename = "雪雨星风"
+[[menu.main]]
+    name = "简历"
+    url  = "/resume"
+
